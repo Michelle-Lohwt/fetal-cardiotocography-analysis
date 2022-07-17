@@ -1,6 +1,6 @@
 # Fetal Cardiotocography Analysis
 
-Website Link: https://express.adobe.com/page/OCn3NTYaM8SHb/
+Website Link: <a href="https://express.adobe.com/page/OCn3NTYaM8SHb/" target = "_blank">Report Part 1</a>
 
 ## Dataset Description
 
