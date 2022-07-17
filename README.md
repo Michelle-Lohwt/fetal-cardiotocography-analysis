@@ -1,6 +1,8 @@
 # Fetal Cardiotocography Analysis
 
-Website Link: <a href="https://express.adobe.com/page/OCn3NTYaM8SHb/" target="_blank">Report Part 1</a>
+Website Link: 
+- [Report Part 1](https://express.adobe.com/page/OCn3NTYaM8SHb/)
+- [Report Part 2: Neural Network and Random Forest]()
 
 ## Dataset Description
 
